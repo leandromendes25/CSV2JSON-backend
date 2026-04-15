@@ -122,9 +122,7 @@ Content-Type: text/plain
 * [ ] Suporte a arquivos `.csv` via upload (`MultipartFile`)
 * [ ] Parser completo de CSV (tratamento de aspas)
 * [ ] Exportação como arquivo para download
-* [ ] Testes unitários com JUnit e Mockito
-* [ ] Integração com frontend (Angular/React)
-
+* [ ] Integração com frontend (Angular)
 ---
 
 ## 📂 Estrutura do Projeto
@@ -132,9 +130,7 @@ Content-Type: text/plain
 ```
 src/
  ├── controller/
- ├── service/
- ├── dto/
- └── util/
+ └── service/
 ```
 
 ---
