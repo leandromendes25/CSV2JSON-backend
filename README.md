@@ -16,11 +16,12 @@ API REST desenvolvida em **Java com Spring Boot** para conversão de dados entre
 
 ## 🛠️ Tecnologias
 
-* Java 17+
+* Java 21
 * Spring Boot
 * Spring Web
-* Maven
-* Postman (testes)
+* Gradle
+* JUnit 5 & Mockito
+* Postman
 
 ---
 
